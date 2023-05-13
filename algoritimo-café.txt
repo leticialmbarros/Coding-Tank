@@ -1,0 +1,3 @@
+Desenvolver um algoritimo sobre alguma ação do dia a dia:
+
+Irei fazer um algoritimo do passo a passo para passar café.

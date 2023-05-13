@@ -1,0 +1,81 @@
+                1 - O que é um algoritimo?
+Algoritimo é uma sequencia de passos logicos que resultam em um objeitvo, ou melhor, uma sequencias de instruções que o ser humano da a uma maquina, para que ela execute uma função.
+
+
+Receita de Bolo de Chocolate com Recheio:
+* comprar (ovos, farinha, margarina, leite, massa de chocolate, fermento, chocolate e creme de leite);
+* Pre - aquecer o forno a 200º graus
+/ misturar os ingredientes, primeiro os liquidos e depois os secos em um recipiente;
+* adicionar 2 xícaras (chá) de açúcar;
+* adicionar 4 colheres (sopa) de margarina;
+/ misturar;
+* quebrar os 3 ovos;
+* adicionar os 3 ovo no recipiente;
+* adicionar 1 e 1/2 xícara (chá) de leite;
+* adionar as 3 xicaras de chá de farinha;
+/ misturar
+* untar forma com margarina e trigo;
+* adicionar massa a forma;
+* levar ao forno por 40 min a 180;
+
+
+// recheio //
+
+* preparar recipiente;
+* quebrar barra de chocolate em pequenos pedaços;
+* levar o chocolate ao recipiente e colocar no microondas por 30s;
+    / se estiver bom
+        * retirar do microondas;
+        * seguir;
+    / se não estiver bom
+        * levar ao microondas por mais 30s;
+
+* adicionar creme de leite ao chocolate;
+* retirar bolo do forno;
+* desenformar o bolo da bandeja;
+* despejar a cobertura unioformemente sobre o bolo;
+* servir
+
+Isto é um algoritimo, uma sequencia de instruções, sequencia de passos que objetivam um delicioso bolo!
+
+
+
+
+                2- Problemática: Eu sou dono de uma farmácia e quero que meus clientes calculem o IMC sem minha ajuda.
+
+// Ideais :
+
+    - Criar um chat interativo em que o chat questiona dados importantes como peso, altura e idade e por lá será feito o calculo.
+    - web/app no qual o cliente consegue calcular o IMC 
+    - totem de atendimentorder 
+
+ OBS: Sua idéia resolve sua problemática ou é uma melhoria? Cuidado para não perder o foco.
+
+// Perguntinhas: 
+
+    1. Quais dados de entrada eu preciso para resolver meu problema?
+        - Peso 
+        - Altura
+        - Idade
+
+    2. O que eu preciso fazer com estes dados?
+        - peso/altura²
+
+    3. Quais as restrições e/ou regras do negócio do meu problema? (tudo que é regra de negocio para ser validado, tudo aquilo que impede o funcionamento do codigo)
+        - os dados obrigatorios (peso e altura);
+        - altura tem que ser maior que 0;
+        - peso deve ser maior que 0;
+        - se tiver idade, que seja maior que 0;
+        - o tipo de dado, ou seja, os dados precisam ser numericos;
+        - retornar o feedback de IMC;
+
+    4. Qual o resultado esperado?
+        - calculo do imc 
+
+    5. Quais os passos para alcançar esse objetivo?
+
+
+    
+
+
+
